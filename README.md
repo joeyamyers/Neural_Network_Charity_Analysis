@@ -10,24 +10,24 @@ During the preprocessing process, columns like id numbers and names are removed 
 
 ![](analysis/encodedDF.png)
 
-Target Variable (Varaible we are trying to predict):
-    - IS_SUCCESSFUL: Was the money used effectively
+Target Variable (Varaible we are trying to predict):<br>
+    - IS_SUCCESSFUL: Was the money used effectively<br>
 
-Features of Model (Input data):
-    - APPLICATION_TYPE: Application type
-    - AFFILIATION: Affiliated sector of industry
-    - CLASSIFICATION: Classification
-    - USE_CASE: Use case
-    - ORGANIZATION: Organization type
-    - STATUS: Active status
-    - INCOME_AMT: Income classification
-    - SPECIAL_CONSIDERATIONS: Special Considerations for application
-    - ASK_AMT: Funding Amount requested
+Features of Model (Input data): <br>
+    - APPLICATION_TYPE: Application type<br>
+    - AFFILIATION: Affiliated sector of industry<br>
+    - CLASSIFICATION: Classification<br>
+    - USE_CASE: Use case<br>
+    - ORGANIZATION: Organization type<br>
+    - STATUS: Active status<br>
+    - INCOME_AMT: Income classification<br>
+    - SPECIAL_CONSIDERATIONS: Special Considerations for application<br>
+    - ASK_AMT: Funding Amount requested<br>
 
-Removed columns:
-    - Identification columns
-        - EIN
-        - Name
+Removed columns:<br>
+    - Identification columns<br>
+        - EIN<br>
+        - Name<br>
 
 ### Compiling, Training, Evaluating the Model
 
