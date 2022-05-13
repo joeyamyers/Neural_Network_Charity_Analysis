@@ -11,6 +11,9 @@ __pycache__/
 # add data
 Resources/
 
+# add checkpoints
+checkpoints/
+
 # Distribution / packaging
 .Python
 build/

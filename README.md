@@ -30,10 +30,15 @@ Removed columns:<br>
         - Name<br>
 
 ### Compiling, Training, Evaluating the Model
+#### The Model
+In the model, there are two hidden layers with 80 and 30 neurons, respectively. Both hidden layers use the ReLU activaton function to identify non-linear patterns in the data. In the ouput layer, I used the sigmoid function to report a binary classification because I wanted to separate the data into two clusters. 
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
+#### Model Performance
+My model did not reach the 75% accuracy threshold I set out to achieve as it only achieved 72.5%. Therefore, I must make modifications to the model to reach this threshold.
+
+#### Optimizing the Model
+In order to achieve a target predictive accuracy higher than 75%, I tried a few different modifications before I achieved the target accuracy. 
+
 
 
 ### Summary
