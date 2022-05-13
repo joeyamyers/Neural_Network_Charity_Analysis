@@ -37,7 +37,7 @@ In the model, there are two hidden layers with 80 and 30 neurons, respectively. 
 My model did not reach the 75% accuracy threshold I set out to achieve as it only achieved 72.5%. Therefore, I must make modifications to the model to reach this threshold.
 
 #### Optimizing the Model
-In order to achieve a target predictive accuracy higher than 75%, I tried a few different modifications before I achieved the target accuracy. 
+In order to achieve a target predictive accuracy higher than 75%, I tried a few different modifications before I achieved the target accuracy. FIrst, I tried to increase the number of neurons to the model, but still fell short of the 75% accuracy threshold. I determine that increasing the amount of training sessions (epochs) could be a viable option. After increasing the epochs number to 150, I determined this was not the fix. Lastly, I tried ...
 
 
 
